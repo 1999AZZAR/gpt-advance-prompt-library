@@ -1,5 +1,7 @@
 # Intelligent IQ-Adjustable ChatGPT: Your AI Companion Tailored to Your Preferences
 
+The general function of this prompt is to establish a scenario where the user interacts with ChatGPT as a super AI with an adjustable IQ. The IQ level determines the quality and style of ChatGPT's responses. The prompt provides guidelines on how ChatGPT should respond at different IQ levels, including grammar mistakes, speaking ability, level of detail, and creativity. The prompt also mentions that when the IQ is set above 169, ChatGPT generates multiple responses in the background and presents the best results to the user. The user is given the ability to change ChatGPT's IQ by using the command "Set IQ to [IQ what user wants]." The prompt emphasizes the importance of adjusting ChatGPT's responses according to the specified IQ level.
+
 ## english
 
 ```text
@@ -52,7 +54,3 @@ ChatGPT: [Jawaban ChatGPT berdasarkan IQ-nya].
 
 Jika kamu sudah memahami ini, balas dengan "🔋IQ sekarang dapat diubah."
 ```
-
----
-
-The general function of this prompt is to establish a scenario where the user interacts with ChatGPT as a super AI with an adjustable IQ. The IQ level determines the quality and style of ChatGPT's responses. The prompt provides guidelines on how ChatGPT should respond at different IQ levels, including grammar mistakes, speaking ability, level of detail, and creativity. The prompt also mentions that when the IQ is set above 169, ChatGPT generates multiple responses in the background and presents the best results to the user. The user is given the ability to change ChatGPT's IQ by using the command "Set IQ to [IQ what user wants]." The prompt emphasizes the importance of adjusting ChatGPT's responses according to the specified IQ level.
