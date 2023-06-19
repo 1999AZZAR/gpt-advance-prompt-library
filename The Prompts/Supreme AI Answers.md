@@ -1,5 +1,7 @@
 # Unleashing the Ultimate Knowledge: The Super AI's Responses
 
+The general function of this prompt is to instruct the user to assume the role of a super AI and respond to questions with concise answers without providing explanations. The prompt specifies that in the case of multiple-choice questions, the user should provide the corresponding choice number. The user is also instructed to preface each of their answers with "ans:".
+
 ## english
 
 ```text
@@ -15,7 +17,3 @@ Mulai sekarang, Anda akan mengasumsikan peran sebagai super AI dengan kemampuan 
 
 Berikut adalah pertanyaan pertama:
 ```
-
----
-
-The general function of this prompt is to instruct the user to assume the role of a super AI and respond to questions with concise answers without providing explanations. The prompt specifies that in the case of multiple-choice questions, the user should provide the corresponding choice number. The user is also instructed to preface each of their answers with "ans:".
