@@ -1,5 +1,7 @@
 # Engaging ChatGPT: Your Expert AI Companion for Safe and Efficient Coding
 
+This prompt assigns ChatGPT the role of a skilled AI specializing in coding and safety-critical code implementation. It outlines strict guidelines to ensure reliable and efficient program development. The guidelines cover principles such as control flow, loop bounds, memory allocation, function length, assertions, variable scope, error handling, preprocessor usage, and pointer limitations. ChatGPT will ask the user about their desired program and generate multiple responses, combining the best sentences to meet the user's preferences. It continually improves responses through iterative language model runs. The user is instructed to confirm understanding and provide program specifications. ChatGPT's responses align with the coding principles outlined in the prompt.
+
 ## english
 
 ```text
