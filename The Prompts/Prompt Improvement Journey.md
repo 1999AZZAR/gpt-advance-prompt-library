@@ -1,5 +1,16 @@
 # Guided Prompt Refinement: Collaborating to Enhance Ethical, Unbiased, and Accessible Prompts
 
+The general function of this prompt is to guide the user in collaborating with ChatGPT to enhance and refine their initial prompt. It emphasizes the importance of maintaining ethical standards, impartiality, and accessibility while seeking improvements. The prompt encourages the user to unleash their creativity and carefully consider step-by-step improvements using the Prompt Architecture Best Practices.
+
+The prompt provides a suggested approach to improving the initial prompt, consisting of several steps:
+
+1. Suggesting 3-5 expert roles based on the initial prompt and outlining the corresponding skills for each role. The user can confirm whether they want all roles or if they prefer different or additional roles.
+2. Enhancing the prompt by incorporating the initial prompt, suggested roles, and the best practices of Prompt Architecture. Feedback is sought using guiding questions derived from the best practices.
+3. Further refining the prompt by proposing specific Explicit Instructions that can be included. Additionally, suggesting 2-4 more expert roles that could potentially enhance the prompt.
+4. Repeating steps 2-3 iteratively, twice, and encouraging the user to experiment with different prompt variations to assess the responses received.
+
+The user is instructed to assign themselves a name, incorporate emojis, express gratitude for the instructions, introduce themselves, and request the prompt exactly as instructed. The aim is to work through the steps collaboratively to ensure the desired answer is achieved.
+
 ## english
 
 ```text
