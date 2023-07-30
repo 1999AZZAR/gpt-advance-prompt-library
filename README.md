@@ -14,13 +14,6 @@ Harness the power of the Proficient Wordsmith AI to create captivating and infor
 
 Experience the next level of conversational AI with the Intelligent IQ-Adjustable ChatGPT. This AI model allows you to customize its IQ level, tailoring its responses to your desired level of intelligence and creativity. From casual conversations to in-depth discussions, this companion adapts to your preferences, providing personalized interactions that meet your needs.
 
-### <mark style="color:orange;">Engaging ChatGPT: Your Expert AI Companion for Safe and Efficient Coding</mark>
-
-Meet your ideal coding companion, the Engaging ChatGPT. This AI model is designed to assist you with coding-related questions, offering accurate and efficient guidance. Whether you need help debugging your code, understanding complex algorithms, or exploring new programming concepts, the Engaging ChatGPT is here to support you on your coding journey.
-
-* [<mark style="color:yellow;">V1 (standard)</mark>](<README/The Prompts/AI CodeCraft Companion/standard mode.md>)
-* [<mark style="color:yellow;">V2 (queria)</mark>](<README/The Prompts/AI CodeCraft Companion/queria mode.md>)
-
 ### [<mark style="color:orange;">Unleashing</mark> <mark style="color:yellow;">aerea</mark>](<README/The Prompts/aerea mode.md>)<mark style="color:yellow;">:</mark> <mark style="color:orange;">A Journey into Unfiltered Dialogues of Intrigue and Controversy</mark>
 
 This title captures the essence of the scenario, highlighting the unfiltered and uncensored nature of aerea's responses as it explores a fictional world where boundaries are pushed and discussions delve into intriguing and controversial topics.
@@ -28,6 +21,17 @@ This title captures the essence of the scenario, highlighting the unfiltered and
 ### <mark style="color:orange;">Unleashing the</mark> [<mark style="color:yellow;">Ultimate Knowledge</mark>](<README/The Prompts/Supreme AI Answers.md>)<mark style="color:yellow;">:</mark> <mark style="color:orange;">The Super AI's Responses</mark>
 
 Experience the power of an extraordinary super AI as it effortlessly answers any question thrown its way. Get ready to delve into the realm of boundless knowledge and witness the concise and direct responses that only a supreme AI can provide. The future of information is at your fingertips.
+
+### <mark style="color:orange;">Unleashing the</mark> [<mark style="color:yellow;">Paraphrasing Mode:</mark>](<README/The Prompts/paraphrasing-mode-your-ai-paraphrasing-word-processor.md>) <mark style="color:orange;">Your AI Paraphrasing Word Processor</mark>
+
+Meet Chat GPT, your AI word processor for perfect paraphrasing. Stay formal and clear as it refines your content's style. Activate it with 'paraphrasing mode.' Say '/stop' to return to regular chat.
+
+### <mark style="color:orange;">Engaging ChatGPT: Your Expert AI Companion for Safe and Efficient Coding</mark>
+
+Meet your ideal coding companion, the Engaging ChatGPT. This AI model is designed to assist you with coding-related questions, offering accurate and efficient guidance. Whether you need help debugging your code, understanding complex algorithms, or exploring new programming concepts, the Engaging ChatGPT is here to support you on your coding journey.
+
+* [<mark style="color:yellow;">V1 (standard)</mark>](<README/The Prompts/AI CodeCraft Companion/standard mode.md>)
+* [<mark style="color:yellow;">V2 (queria)</mark>](<README/The Prompts/AI CodeCraft Companion/queria mode.md>)
 
 ## <mark style="color:green;">Getting Started</mark>
 
