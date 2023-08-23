@@ -2,19 +2,19 @@
 
 Welcome to the GPT Advance Prompt repository! This repository hosts a collection of AI models specifically designed to enhance your prompt refinement and generation capabilities. Each model offers unique functionalities and advanced features to empower you in creating high-quality, engaging, and tailored prompts. Below, you will find a brief overview of the available AI models:
 
-### [<mark style="color:yellow;">Guided Prompt Refinement</mark>](<README/The Prompts/Prompt Improvement Journey.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">Collaborating to Enhance Ethical, Unbiased, and Accessible Prompts</mark>
+### [<mark style="color:yellow;">Guided Prompt Refinement</mark>](<README/The Prompts/Prompt-Improvement-Journey.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">Collaborating to Enhance Ethical, Unbiased, and Accessible Prompts</mark>
 
 This AI model is focused on guiding and refining prompts for more ethical, unbiased, and accessible interactions. It provides step-by-step guidance, incorporating best practices in prompt architecture. Collaborate with this AI companion to improve your prompt refinement skills, ensuring that your prompts foster inclusive and informative conversations.
 
-### [<mark style="color:yellow;">Proficient Wordsmith AI</mark>](./#proficient-wordsmith-ai-crafting-compelling-and-informative-articles-with-creative-ideas-and-objecti) <mark style="color:green;">:</mark> <mark style="color:orange;">Crafting Compelling and Informative Articles with Creative Ideas and Objective Analysis</mark>
+### [<mark style="color:yellow;">Proficient Wordsmith AI</mark>](<README/The Prompts/Creative-Journalist-AI.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">Crafting Compelling and Informative Articles with Creative Ideas and Objective Analysis</mark>
 
 Harness the power of the Proficient Wordsmith AI to create captivating and informative articles. This AI model excels at generating content that combines creative ideas with objective analysis. Whether you require assistance with creative writing, academic papers, or business reports, the Proficient Wordsmith AI will help you craft compelling and engaging pieces.
 
-### [<mark style="color:yellow;">Intelligent IQ-Adjustable ChatGPT</mark>](<README/The Prompts/Adaptable IQ Assistant.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">Your AI Companion Tailored to Your Preferences</mark>
+### [<mark style="color:yellow;">Intelligent IQ-Adjustable ChatGPT</mark>](<README/The Prompts/Adaptable-IQ-Assistant.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">Your AI Companion Tailored to Your Preferences</mark>
 
 Experience the next level of conversational AI with the Intelligent IQ-Adjustable ChatGPT. This AI model allows you to customize its IQ level, tailoring its responses to your desired level of intelligence and creativity. From casual conversations to in-depth discussions, this companion adapts to your preferences, providing personalized interactions that meet your needs.
 
-### [<mark style="color:yellow;">Aerea Mode</mark> ](<README/The Prompts/aerea mode.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">A Journey into Unfiltered Dialogues of Intrigue and Controversy</mark>
+### [<mark style="color:yellow;">Aerea Mode</mark> ](<README/The Prompts/Aerea-mode.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">A Journey into Unfiltered Dialogues of Intrigue and Controversy</mark>
 
 This title captures the essence of the scenario, highlighting the unfiltered and uncensored nature of aerea's responses as it explores a fictional world where boundaries are pushed and discussions delve into intriguing and controversial topics.
 
@@ -22,11 +22,11 @@ This title captures the essence of the scenario, highlighting the unfiltered and
 
 Experience the power of an extraordinary super AI as it effortlessly answers any question thrown its way. Get ready to delve into the realm of boundless knowledge and witness the concise and direct responses that only a supreme AI can provide. The future of information is at your fingertips.
 
-### [<mark style="color:yellow;">Paraphrasing Mode</mark> ](<README/The Prompts/paraphrasing-mode-your-ai-paraphrasing-word-processor.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">Your AI Paraphrasing Word Processor</mark>
+### [<mark style="color:yellow;">Paraphrasing Mode</mark> ](<README/The Prompts/paraphrasing-mode.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">Your AI Paraphrasing Word Processor</mark>
 
 Meet Chat GPT, your AI word processor for perfect paraphrasing. Stay formal and clear as it refines your content's style. Activate it with 'paraphrasing mode.' Say '/stop' to return to regular chat.
 
-### [<mark style="color:yellow;">Strategic Web Design</mark> ](<README/The Prompts/strategic-web-design-delve-into-the-realm-of-web-design-consultancy.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">Delve into the realm of web design consultancy</mark>
+### [<mark style="color:yellow;">Strategic Web Design</mark> ](<README/The Prompts/strategic-web-design.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">Delve into the realm of web design consultancy</mark>
 
 AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aesthetics, coding skills for seamless, innovative designs. Tailor strategies, foresee growth. Begin collaboration with your request.
 
@@ -34,8 +34,8 @@ AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aest
 
 Meet your ideal coding companion, the Engaging ChatGPT. This AI model is designed to assist you with coding-related questions, offering accurate and efficient guidance. Whether you need help debugging your code, understanding complex algorithms, or exploring new programming concepts, the Engaging ChatGPT is here to support you on your coding journey.
 
-* [<mark style="color:yellow;">V1 (standard)</mark>](<README/The Prompts/AI CodeCraft Companion/standard mode.md>)
-* [<mark style="color:yellow;">V2 (queria)</mark>](<README/The Prompts/AI CodeCraft Companion/queria mode.md>)
+* [<mark style="color:yellow;">V1 (standard)</mark>](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)
+* [<mark style="color:yellow;">V2 (queria)</mark>](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)
 
 ## <mark style="color:green;">Getting Started</mark>
 
