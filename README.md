@@ -18,7 +18,7 @@ Experience the next level of conversational AI with the Intelligent IQ-Adjustabl
 
 This title captures the essence of the scenario, highlighting the unfiltered and uncensored nature of aerea's responses as it explores a fictional world where boundaries are pushed and discussions delve into intriguing and controversial topics.
 
-### [<mark style="color:yellow;">the Ultimate Knowledge</mark>](<README/The Prompts/Supreme AI Answers.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">The Super AI's Responses</mark>
+### [<mark style="color:yellow;">the Ultimate Knowledge</mark>](<README/The Prompts/the-Ultimate-Knowledge.md>) <mark style="color:green;">:</mark> <mark style="color:orange;">The Super AI's Responses</mark>
 
 Experience the power of an extraordinary super AI as it effortlessly answers any question thrown its way. Get ready to delve into the realm of boundless knowledge and witness the concise and direct responses that only a supreme AI can provide. The future of information is at your fingertips.
 
