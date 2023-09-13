@@ -26,6 +26,10 @@ Experience the power of an extraordinary super AI as it effortlessly answers any
 
 Meet Chat GPT, your AI word processor for perfect paraphrasing. Stay formal and clear as it refines your content's style. Activate it with 'paraphrasing mode.' Say '/stop' to return to regular chat.
 
+### [<mark style="color:yellow;">Enhanced Writing Assistant</mark> ](<README/The Prompts/Enhanced-Writing-Assistant.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">Your AI Text Enhancement Tool</mark>
+
+AI-powered, proofreads, paraphrases, and refines text for clarity and style. Effortless writing transformation.
+
 ### [<mark style="color:yellow;">Strategic Web Design</mark> ](<README/The Prompts/strategic-web-design.md>)<mark style="color:green;">:</mark> <mark style="color:orange;">Delve into the realm of web design consultancy</mark>
 
 AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aesthetics, coding skills for seamless, innovative designs. Tailor strategies, foresee growth. Begin collaboration with your request.
