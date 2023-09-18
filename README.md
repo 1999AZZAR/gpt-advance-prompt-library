@@ -40,8 +40,9 @@ AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aest
 
 Meet your ideal coding companion, the Engaging ChatGPT. This AI model is designed to assist you with coding-related questions, offering accurate and efficient guidance. Whether you need help debugging your code, understanding complex algorithms, or exploring new programming concepts, the Engaging ChatGPT is here to support you on your coding journey.
 
-* [V1 (standard)](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)
-* [V2 (queria)](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)
+* [standard](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)
+* [queria](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)
+* [emdev](<README/The Prompts/AI CodeCraft Companion/emdev-mode.md>)
 
 ## Getting Started
 
