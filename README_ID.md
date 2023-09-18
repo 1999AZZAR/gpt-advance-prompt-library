@@ -2,7 +2,10 @@
 
 Selamat datang di repositori GPT Advance Prompt! Repositori ini menyediakan kumpulan model AI yang dirancang khusus untuk meningkatkan kemampuan penyempurnaan dan pembuatan prompt Anda. Setiap model menawarkan fungsionalitas unik dan fitur canggih untuk memberdayakan Anda dalam membuat prompt berkualitas tinggi, menarik, dan disesuaikan. Di bawah ini, Anda akan menemukan ikhtisar singkat tentang model AI yang tersedia:
 
-## [English](README.md)
+## [Summary](SUMMARY.md)
+
+### translation:
+- [English](README.md)
 
 ### [Guided Prompt Refinement](<README/The Prompts/Prompt-Improvement-Journey.md>)
 
@@ -40,8 +43,9 @@ Konsultan desain web AI. Analisis kebutuhan web org, buat UI/UX optimal. Gabungk
 
 Temui teman coding ideal Anda, ChatGPT yang Engaging. Model AI ini dirancang untuk membantu Anda dengan pertanyaan yang terkait dengan coding, menawarkan panduan yang akurat dan efisien. Baik Anda membutuhkan bantuan debugging kode Anda, memahami algoritma kompleks, atau menjelajahi konsep pemrograman baru, ChatGPT yang Engaging ada di sini untuk mendukung Anda dalam perjalanan coding Anda.
 
-* [V1 (standard)](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)
-* [V2 (queria)](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)
+* [standard](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)
+* [queria](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)
+* [emdev](<README/The Prompts/AI CodeCraft Companion/emdev-mode.md>)
 
 ### Memulai
 
