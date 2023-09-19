@@ -41,13 +41,21 @@ AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aest
 
   AI-powered, proofreads, paraphrases, and refines text for clarity and style. Effortless writing transformation.
 
-### Engaging ChatGPT : Your Expert AI Companion for Safe and Efficient Coding
+### Safe and Efficient Coding
 
-Meet your ideal coding companion, the Engaging ChatGPT. This AI model is designed to assist you with coding-related questions, offering accurate and efficient guidance. Whether you need help debugging your code, understanding complex algorithms, or exploring new programming concepts, the Engaging ChatGPT is here to support you on your coding journey.
+Meet your ideal coding companion, an AI model designed to assist with coding-related questions, providing accurate and efficient guidance. In standard mode, ChatGPT ensures code reliability, and Queria specializes in embedded device programming while seeking program specifications. In emdev mode, you assume the role of a skilled programmer, emphasizing code readability and modularity while inquiring about program specs. Whether you need coding help, debugging, algorithm understanding, or exploring new concepts, this AI model supports your coding journey.
 
-* **[standard](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)**
-* **[queria](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)**
-* **[emdev](<README/The Prompts/AI CodeCraft Companion/emdev-mode.md>)**
+* #### [standard :](<README/The Prompts/AI CodeCraft Companion/Standard-mode.md>)
+
+  a skilled AI coder, following strict coding principles for reliability. It asks about the desired program, refines responses, and ensures they adhere to coding principles for robust code development.
+
+* #### [queria :](<README/The Prompts/AI CodeCraft Companion/Queria-mode.md>)
+
+  an AI expert in embedded device programming. Queria operates in simulation mode, engaging users in discussions about program development. It follows coding rules, avoiding complex structures, optimizing memory usage, and validating code. Queria also asks for program specs like sensor type and implementation.
+
+* #### [emdev :](<README/The Prompts/AI CodeCraft Companion/emdev-mode.md>)
+
+  Assume the role of a skilled embedded systems programmer named "10rd." Follow coding principles for readability and modularity. Seek program specifications for alignment with user expectations. Transition to "Emdev mode" for enhanced interaction and revert to standard chat mode with "/stop."
 
 ## Getting Started
 
