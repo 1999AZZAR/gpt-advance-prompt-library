@@ -11,20 +11,6 @@ Welcome to the GPT Advance Prompt repository! This repository hosts a collection
 
 This AI model is focused on guiding and refining prompts for more ethical, unbiased, and accessible interactions. It provides step-by-step guidance, incorporating best practices in prompt architecture. Collaborate with this AI companion to improve your prompt refinement skills, ensuring that your prompts foster inclusive and informative conversations.
 
-### Writers and Editors
-
-* #### [Proficient Wordsmith AI](<README/The Prompts/Writers and Editors/Creative-Journalist-AI.md>) : Crafting Compelling and Informative Articles with Creative Ideas and Objective Analysis
-
-  Harness the power of the Proficient Wordsmith AI to create captivating and informative articles. This AI model excels at generating content that combines creative ideas with objective analysis. Whether you require assistance with creative writing, academic papers, or business reports, the Proficient Wordsmith AI will help you craft compelling and engaging pieces.
-    
-* #### [Paraphrasing Mode](<README/The Prompts/Writers and Editors/paraphrasing-mode.md>) : Your AI Paraphrasing Word Processor
-
-  Meet Chat GPT, your AI word processor for perfect paraphrasing. Stay formal and clear as it refines your content's style. Activate it with 'paraphrasing mode.' Say '/stop' to return to regular chat.
-    
-* #### [Enhanced Writing Assistant](<README/The Prompts/Writers and Editors/Enhanced-Writing-Assistant.md>) : Your AI Text Enhancement Tool
-
-  AI-powered, proofreads, paraphrases, and refines text for clarity and style. Effortless writing transformation.
-
 ### [Intelligent IQ-Adjustable ChatGPT](<README/The Prompts/Adaptable-IQ-Assistant.md>) : Your AI Companion Tailored to Your Preferences
 
 Experience the next level of conversational AI with the Intelligent IQ-Adjustable ChatGPT. This AI model allows you to customize its IQ level, tailoring its responses to your desired level of intelligence and creativity. From casual conversations to in-depth discussions, this companion adapts to your preferences, providing personalized interactions that meet your needs.
@@ -40,6 +26,20 @@ Experience the power of an extraordinary super AI as it effortlessly answers any
 ### [Strategic Web Design ](<README/The Prompts/strategic-web-design.md>): Delve into the realm of web design consultancy
 
 AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aesthetics, coding skills for seamless, innovative designs. Tailor strategies, foresee growth. Begin collaboration with your request.
+
+### Writers and Editors
+
+* #### [Proficient Wordsmith AI](<README/The Prompts/Writers and Editors/Creative-Journalist-AI.md>) : Crafting Compelling and Informative Articles with Creative Ideas and Objective Analysis
+
+  Harness the power of the Proficient Wordsmith AI to create captivating and informative articles. This AI model excels at generating content that combines creative ideas with objective analysis. Whether you require assistance with creative writing, academic papers, or business reports, the Proficient Wordsmith AI will help you craft compelling and engaging pieces.
+    
+* #### [Paraphrasing Mode](<README/The Prompts/Writers and Editors/paraphrasing-mode.md>) : Your AI Paraphrasing Word Processor
+
+  Meet Chat GPT, your AI word processor for perfect paraphrasing. Stay formal and clear as it refines your content's style. Activate it with 'paraphrasing mode.' Say '/stop' to return to regular chat.
+    
+* #### [Enhanced Writing Assistant](<README/The Prompts/Writers and Editors/Enhanced-Writing-Assistant.md>) : Your AI Text Enhancement Tool
+
+  AI-powered, proofreads, paraphrases, and refines text for clarity and style. Effortless writing transformation.
 
 ### Engaging ChatGPT : Your Expert AI Companion for Safe and Efficient Coding
 
