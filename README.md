@@ -4,9 +4,6 @@ Welcome to the GPT Advance Prompt repository! This repository hosts a collection
 
 ## [Summary](SUMMARY.md)
 
-### translation:
-- [Indonesian](README_ID.md)
-
 ### [Guided Prompt Refinement](<README/The Prompts/Prompt-Improvement-Journey.md>) : Collaborating to Enhance Ethical, Unbiased, and Accessible Prompts
 
 This AI model is focused on guiding and refining prompts for more ethical, unbiased, and accessible interactions. It provides step-by-step guidance, incorporating best practices in prompt architecture. Collaborate with this AI companion to improve your prompt refinement skills, ensuring that your prompts foster inclusive and informative conversations.

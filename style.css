@@ -1,0 +1,47 @@
+body {
+  font-family: 'Fuggles','Playfair Display', sans-serif;
+  background-color: black;
+  color: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+p {
+  font-family: 'Dancing Script','Playfair Display', sans-serif;
+  font-size: 1.8em;
+}
+
+h3, h4, h5, h6 {
+  background-color: black;
+  color: white;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 3em;
+  color: purple;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: yellow;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+a {
+  background-color: black;
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  text-decoration: underline;
+}
+
