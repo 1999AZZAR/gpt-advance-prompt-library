@@ -27,10 +27,7 @@ Experience the power of an extraordinary super AI as it effortlessly answers any
 
 AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aesthetics, coding skills for seamless, innovative designs. Tailor strategies, foresee growth. Begin collaboration with your request.
 
-<details>
-  <summary> <h3>Writers and Editors</h3></summary>
-<div>
-<samp>
+### Writers and Editors
 
 * #### [Proficient Wordsmith AI](<README/The Prompts/Writers and Editors/Creative-Journalist-AI.md>) : Crafting Compelling and Informative Articles with Creative Ideas and Objective Analysis
 
@@ -43,10 +40,6 @@ AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aest
 * #### [Enhanced Writing Assistant](<README/The Prompts/Writers and Editors/Enhanced-Writing-Assistant.md>) : Your AI Text Enhancement Tool
 
   AI-powered, proofreads, paraphrases, and refines text for clarity and style. Effortless writing transformation.
-
- </samp>
-</div>
-</details>
 
 ### Safe and Efficient Coding
 
