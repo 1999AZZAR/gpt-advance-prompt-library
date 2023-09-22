@@ -53,12 +53,18 @@ summary {
   font-size: 1.5em;
 }
 
+/* Add spacing around the details element */
+details {
+  margin-bottom: 15px; /* You can adjust the value to control the amount of spacing */
+}
+
 /* Style for all list items */
 li {
   list-style: none;
   margin-left: 20px; /* Adjust the margin as needed */
   position: relative;
   font-size: 24px;
+  display: block;
 }
 
 /* Style for ordered list items */
