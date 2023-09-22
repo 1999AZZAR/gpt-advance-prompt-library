@@ -1,5 +1,6 @@
 body {
-  font-family: 'Fuggles','Playfair Display', sans-serif;
+  font-family: 'Caveat', cursive;
+  font-family: 'Dancing Script', cursive;
   background-color: black;
   color: white;
   margin-left: 15%;
@@ -7,14 +8,19 @@ body {
 }
 
 p {
-  font-family: 'Dancing Script','Playfair Display', sans-serif;
+  font-family: 'Caveat', sans-serif;
   font-size: 1.8em;
+}
+
+li p {
+  font-size: 24px;
 }
 
 article {
   text-align: justify; /* Justify the text content */
   width: 80%; /* Set a width for the article */
   margin: 0 auto; /* Center the article horizontally */
+  font-family: 'Caveat';
 }
 
 /* Style for the code container */
@@ -51,6 +57,7 @@ summary {
   color: white;
   font-weight: bold;
   font-size: 1.5em;
+  border-radius: 50%;
 }
 
 /* Add spacing around the details element */
@@ -58,19 +65,23 @@ details {
   margin-bottom: 15px; /* You can adjust the value to control the amount of spacing */
 }
 
+ol, li, ul {
+  font-family: 'Cavear';
+}
+
 /* Style for all list items */
 li {
   list-style: none;
   margin-left: 20px; /* Adjust the margin as needed */
   position: relative;
-  font-size: 24px;
+  font-size: 19px;
   display: block;
 }
 
 /* Style for ordered list items */
 ol li:before {
   content: counter(li) ". "; /* Add a counter with a period after each ordered list item */
-  /* counter-increment: li; */
+  counter-increment: li;
   position: absolute;
   left: -20px; /* Adjust the positioning to align with the margin */
 }
@@ -80,6 +91,10 @@ ul li:before {
   content: "> "; /* Use a bullet character for unordered list items */
   position: absolute;
   left: -20px; /* Adjust the positioning to align with the margin */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dancing Script', sans-serif;
 }
 
 h3, h4, h5, h6 {
