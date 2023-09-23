@@ -1,0 +1,139 @@
+@font-face {
+  font-family: "purisa";
+  src:url("../font/purisa.ttf") format("TrueType");
+}
+
+body {
+  font-family: 'Caveat', cursive;
+  font-family: 'Dancing Script', cursive;
+  background-color: black;
+  color: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+p {
+  font-family: 'Caveat';
+  font-size: 1.625rem;
+}
+
+li p {
+  font-size: 1.5rem;
+}
+
+article {
+  text-align: justify; 
+  width: 80%; 
+  margin: 0 auto; 
+  font-family: 'Caveat';
+}
+
+.code-container {
+  position: relative;
+  border: 1px solid #000000;
+  padding: 10px;
+  margin: 20px;
+  max-height: fit-content;
+  overflow-y: hidden;
+}
+
+.copy-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 5px 10px;
+  background-color: #240035;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-family: 'purisa';
+}
+
+article {
+  background-color: black;
+  color: white;
+  font-size: 1.25rem;
+}
+
+summary {
+  color: white;
+  font-weight: bold;
+  font-size: 1.5em;
+  border-radius: 50%;
+}
+
+details {
+  margin-bottom: 15px; 
+}
+
+ol, ul {
+  font-family: 'Cavear'!important;
+  font-size: 1.125rem;
+}
+
+ul li {
+  list-style: none;
+  margin-left: 20px; 
+  position: relative;
+  font-size: 1rem;
+  display: block;
+  font-family: 'purisa';
+}
+
+ul li:before {
+  content: "> "; 
+  position: absolute;
+  left: -1.327rem; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dancing Script', sans-serif;
+}
+
+h3, h4, h5, h6 {
+  background-color: black;
+  color: white;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.375rem;
+  color: purple !important;
+}
+
+h1 a {
+  color: purple !important;
+}
+
+h1 a:hover {
+  color: rgb(173, 0, 216) !important;
+}
+
+h2 {
+  font-size: 2.125rem;
+  color: yellow;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.625rem;
+}
+
+a {
+  background-color: black;
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  text-decoration: underline;
+}
+
