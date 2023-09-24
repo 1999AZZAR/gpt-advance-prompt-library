@@ -2,9 +2,9 @@
 
 Selamat datang di repositori GPT Advance Prompt! Repositori ini menyimpan kumpulan model AI yang dirancang khusus untuk meningkatkan kemampuan Anda dalam merinci dan menghasilkan prompt. Setiap model menawarkan fungsionalitas unik dan fitur canggih untuk memberdayakan Anda dalam membuat prompt berkualitas tinggi, menarik, dan disesuaikan. Di bawah ini, Anda akan menemukan gambaran singkat tentang model AI yang tersedia:
 
-## [Summary](SUMMARY.md)
+## [Summary](<../../SUMMARY.md>)
 
-### [Home](README.md)
+### [Home](<../../README.md>)
 
 ### [Guided Prompt Refinement](<README/The Prompts/Prompt-Improvement-Journey.md>) : Kolaborasi untuk Meningkatkan Prompts yang Etis, Tidak Bias, dan Mudah Diakses
 
@@ -14,7 +14,7 @@ Model AI ini difokuskan pada panduan dan penyempurnaan prompts untuk interaksi y
 
 Rasakan level berikutnya dari AI percakapan dengan Intelligent IQ-Adjustable ChatGPT. Model AI ini memungkinkan Anda menyesuaikan tingkat kecerdasan dan kreativitasnya, menyesuaikan responsnya dengan tingkat kecerdasan dan kreativitas yang Anda inginkan. Mulai dari percakapan santai hingga diskusi mendalam, teman ini akan beradaptasi dengan preferensi Anda, memberikan interaksi personal yang memenuhi kebutuhan Anda.
 
-### [Mode Aerea ](<README/The Prompts/Aerea-mode.md>): Perjalanan ke Dialog Tak Tersaring yang Penuh Intrik dan Kontroversi
+### [Mode Aerea](<README/The Prompts/Aerea-mode.md>) : Perjalanan ke Dialog Tak Tersaring yang Penuh Intrik dan Kontroversi
 
 Judul ini menangkap esensi dari skenario, menyoroti sifat respons aerea yang tak tersaring dan tanpa sensor saat menjelajahi dunia fiksi di mana batasan-batasan dipaksakan dan diskusi mendalam masuk ke topik yang menarik dan kontroversial.
 
@@ -22,7 +22,7 @@ Judul ini menangkap esensi dari skenario, menyoroti sifat respons aerea yang tak
 
 Rasakan kekuatan super AI luar biasa saat dengan mudah menjawab setiap pertanyaan yang dilemparkan padanya. Siap-siap untuk menjelajahi ranah pengetahuan yang tak terbatas dan menyaksikan respons yang singkat dan langsung yang hanya bisa diberikan oleh AI tertinggi. Masa depan informasi ada di ujung jari Anda.
 
-### [Desain Web Strategis ](<README/The Prompts/strategic-web-design.md>): Menyelami dunia konsultasi desain web
+### [Desain Web Strategis](<README/The Prompts/strategic-web-design.md>) : Menyelami dunia konsultasi desain web
 
 Konsultan desain web AI. Analisis kebutuhan web org, ciptakan UI/UX optimal. Gabungkan estetika, keterampilan pemrograman untuk desain inovatif yang mulus. Sesuaikan strategi, lihat pertumbuhan. Mulai berkolaborasi dengan permintaan Anda.
 

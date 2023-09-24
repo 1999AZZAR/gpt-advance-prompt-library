@@ -1,3 +1,4 @@
+/* Global Styles */
 body {
   font-family: 'Caveat', cursive;
   font-family: 'Dancing Script', cursive;
@@ -6,48 +7,56 @@ body {
   margin-left: 15%;
   margin-right: 15%;
 }
-  
+
+/* Paragraph Styles */
 p {
   font-family: 'Caveat';
   font-size: 1.625rem;
 }
-  
+
+/* Heading Styles */
 h3, h4, h5, h6 {
   background-color: black;
   color: white;
 }
-  
+
+/* Heading 1 and 2 Styles */
 h1, h2 {
   margin-top: 0;
   font-family: 'Dancing Script';
 }
-  
+
+/* Heading 1 Styles */
 h1 {
   font-size: 2.375rem;
   color: purple !important;
 }
 
+/* Heading 2 Styles */
 h2 {
   font-size: 2.125rem;
   color: yellow;
 }
 
+/* Heading 3 Styles */
 h3 {
   font-size: 1.75rem;
 }
 
+/* Heading 4 Styles */
 h4 {
   font-size: 1.625rem;
 }
-  
+
+/* Link Styles */
 a {
   background-color: black;
   color: yellow;
   text-decoration: none;
 }
-  
+
+/* Link Hover Styles */
 a:hover {
   color: green;
   text-decoration: underline;
 }
-  

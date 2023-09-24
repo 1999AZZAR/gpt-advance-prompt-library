@@ -1,8 +1,10 @@
+/* Fonts */
 @font-face {
   font-family: "purisa";
-  src:url("../font/purisa.ttf") format("TrueType");
+  src: url("../font/purisa.ttf") format("TrueType");
 }
 
+/* Body Styles */
 body {
   font-family: 'Caveat', cursive;
   font-family: 'Dancing Script', cursive;
@@ -12,13 +14,9 @@ body {
   margin-right: 15%;
 }
 
+/* Heading Styles */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Dancing Script', sans-serif;
-}
-
-h3, h4, h5, h6 {
-  background-color: black;
-  color: white;
 }
 
 h1, h2 {
@@ -35,7 +33,7 @@ h1 a {
 }
 
 h1 a:hover {
-  color: rgb(173, 0, 216) !important;
+  color: rgb(204, 0, 255) !important;
 }
 
 h2 {
@@ -45,12 +43,15 @@ h2 {
 
 h3 {
   font-size: 1.75rem;
+  background-color: black;
+  color: white;
 }
 
 h4 {
   font-size: 1.625rem;
 }
 
+/* Link Styles */
 a {
   background-color: black;
   color: yellow;
@@ -62,11 +63,13 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Paragraph Styles */
 p {
   font-family: 'Caveat';
   font-size: 1.625rem;
 }
 
+/* Article Styles */
 article {
   text-align: justify; 
   width: 80%; 
@@ -74,11 +77,13 @@ article {
   font-family: 'Caveat';
 }
 
+/* Code Styles */
 code {
   font-family: 'purisa';
   font-size: 1.25rem;
 }
 
+/* Code Container Styles */
 .code-container {
   position: relative;
   border: 1px solid #000000;
@@ -88,12 +93,13 @@ code {
   overflow-y: hidden;
 }
 
+/* Copy Button Styles */
 .copy-button {
   position: absolute;
   top: 5px;
   right: 5px;
   padding: 5px 10px;
-  background-color: #240035;
+  background-color: #4b006e;
   color: #fff;
   cursor: pointer;
   border: none;
@@ -101,12 +107,14 @@ code {
   font-family: 'purisa';
 }
 
+/* Additional Article Styles */
 article {
   background-color: black;
   color: white;
   font-size: 1.25rem;
 }
 
+/* Summary Styles */
 summary {
   color: white;
   font-weight: bold;
@@ -114,15 +122,18 @@ summary {
   border-radius: 50%;
 }
 
+/* Details Styles */
 details {
   margin-bottom: 15px; 
 }
 
+/* List Styles */
 ol, ul {
-  font-family: 'Cavear'!important;
+  font-family: 'Cavear' !important;
   font-size: 1.125rem;
 }
 
+/* List Item Styles */
 ul li {
   list-style: none;
   margin-left: 20px; 
@@ -138,8 +149,18 @@ ul li:before {
   left: -1.327rem; 
 }
 
+/* Additional List Item Styles */
+li {
+  font-family: 'purisa';
+}
+
 li p {
   font-size: 1.5rem;
+}
+
+li a {
+  color: white;
+  font-family: 'purisa';
 }
 
 li code {
