@@ -12,13 +12,59 @@ body {
   margin-right: 15%;
 }
 
-p {
-  font-family: 'Caveat';
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dancing Script', sans-serif;
+}
+
+h3, h4, h5, h6 {
+  background-color: black;
+  color: white;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.375rem;
+  color: purple !important;
+}
+
+h1 a {
+  color: purple !important;
+}
+
+h1 a:hover {
+  color: rgb(173, 0, 216) !important;
+}
+
+h2 {
+  font-size: 2.125rem;
+  color: yellow;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
   font-size: 1.625rem;
 }
 
-li p {
-  font-size: 1.5rem;
+a {
+  background-color: black;
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Caveat';
+  font-size: 1.625rem;
 }
 
 article {
@@ -26,6 +72,11 @@ article {
   width: 80%; 
   margin: 0 auto; 
   font-family: 'Caveat';
+}
+
+code {
+  font-family: 'purisa';
+  font-size: 1.25rem;
 }
 
 .code-container {
@@ -87,53 +138,10 @@ ul li:before {
   left: -1.327rem; 
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Dancing Script', sans-serif;
+li p {
+  font-size: 1.5rem;
 }
 
-h3, h4, h5, h6 {
-  background-color: black;
-  color: white;
+li code {
+  font-size: 1rem;
 }
-
-h1, h2 {
-  margin-top: 0;
-}
-
-h1 {
-  font-size: 2.375rem;
-  color: purple !important;
-}
-
-h1 a {
-  color: purple !important;
-}
-
-h1 a:hover {
-  color: rgb(173, 0, 216) !important;
-}
-
-h2 {
-  font-size: 2.125rem;
-  color: yellow;
-}
-
-h3 {
-  font-size: 1.75rem;
-}
-
-h4 {
-  font-size: 1.625rem;
-}
-
-a {
-  background-color: black;
-  color: yellow;
-  text-decoration: none;
-}
-
-a:hover {
-  color: green;
-  text-decoration: underline;
-}
-
