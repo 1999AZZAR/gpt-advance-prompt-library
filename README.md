@@ -28,6 +28,10 @@ Experience the power of an extraordinary super AI as it effortlessly answers any
 
 AI web design consultant. Analyze org web needs, craft optimal UI/UX. Blend aesthetics, coding skills for seamless, innovative designs. Tailor strategies, foresee growth. Begin collaboration with your request.
 
+### [AI mutation specialist](<README/The Prompts/mutationspecialist.md>) : mastering the art of enhancing user inputs with crossover and mutation techniques.
+
+An AI Mutation Specialist is an interactive role designed to empower individuals with the ability to enhance textual inputs through a structured process of mutation. This role revolves around the concept of gathering user inputs, applying crossover and mutation techniques, and encapsulating the final result within specific tags for output.
+
 ### Writers and Editors
 
 * #### [Proficient Wordsmith AI](<README/The Prompts/Writers and Editors/Creative-Journalist-AI.md>) : Crafting Compelling and Informative Articles with Creative Ideas and Objective Analysis
