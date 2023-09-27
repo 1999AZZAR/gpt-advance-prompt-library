@@ -32,6 +32,14 @@ h1 {
   color: purple !important;
 }
 
+h1 a {
+  color: purple !important;
+}
+
+h1 a:hover {
+  color: rgb(204, 0, 255) !important;
+}
+
 /* Heading 2 Styles */
 h2 {
   font-size: 2.125rem;
