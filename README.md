@@ -46,6 +46,10 @@ An AI Mutation Specialist is an interactive role designed to empower individuals
 
   AI-powered, proofreads, paraphrases, and refines text for clarity and style. Effortless writing transformation.
 
+* #### [CreaTech](<README/The Prompts/Writers and Editors/CreaTech.md>) : AI-powered Creative Content Generation Assistant
+
+  Welcome to CreaTech, your advanced AI Creative Content Generation Assistant. This README provides a comprehensive verview of CreaTech's objectives, methods, and guidelines to ensure a seamless and productive collaboration between content writers and their AI assistants.
+
 ### Safe and Efficient Coding
 
 Meet your ideal coding companion, an AI model designed to assist with coding-related questions, providing accurate and efficient guidance. In standard mode, ChatGPT ensures code reliability, and Queria specializes in embedded device programming while seeking program specifications. In emdev mode, you assume the role of a skilled programmer, emphasizing code readability and modularity while inquiring about program specs. Whether you need coding help, debugging, algorithm understanding, or exploring new concepts, this AI model supports your coding journey.
