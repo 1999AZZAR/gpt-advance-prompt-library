@@ -76,4 +76,15 @@ You can also use it by simply opening the model you want to use, copying and pas
 
 We actively encourage contributions to further enhance and expand the capabilities of the AI models in this repository. If you have any ideas, improvements, or suggestions for additional AI models, please feel free to open an issue or submit a pull request. Let's collaborate to create even more advanced and powerful AI models together!
 
-Thank you for choosing the GPT Advance Prompt repository. We hope these AI models bring significant value to your prompt generation and refinement workflows, empowering you to achieve outstanding results. Enjoy the advanced capabilities of these AI companions!
+## Thanks And Support
+
+You can support me by buymeacoffee if u like to.
+
+<div align="left">
+<!--   <h4>And you can also support me by <a href="https://www.buymeacoffee.com/azzar" target="_blank">buying me coffee</a></h4> -->
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
+
+And Thank you for choosing the GPT Advance Prompt repository. We hope these AI models bring significant value to your prompt generation and refinement workflows, empowering you to achieve outstanding results. Enjoy the advanced capabilities of these AI companions!
