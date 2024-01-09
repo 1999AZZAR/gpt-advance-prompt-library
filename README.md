@@ -1,3 +1,10 @@
+# UPDATE NOTE
+
+Moved and updated to a new repository and web app to help you automatically generate your own prompt.
+- [webapp](https://sanctuary01.pythonanywhere.com/)
+- [repo](https://github.com/1999AZZAR/prompt-sanctuary)
+
+
 # GPT Advance Prompt
 
 Welcome to the GPT Advance Prompt repository! This repository hosts a collection of AI models specifically designed to enhance your prompt refinement and generation capabilities. Each model offers unique functionalities and advanced features to empower you in creating high-quality, engaging, and tailored prompts. Below, you will find a brief overview of the available AI models:
